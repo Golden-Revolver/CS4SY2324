@@ -17,6 +17,8 @@ public class CS4CharmGarcia {
     public static void main(String[] args) {
         // TODO code application logic here
         CS4CharmGarcia firstTeacher = new CS4CharmGarcia();
+        System.out.println("Test");
+        // testing...
     }
     
 }
